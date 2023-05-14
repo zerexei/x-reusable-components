@@ -1,0 +1,1 @@
+<label {{ $attributes->merge(['class' => 'block']) }}>{{ $label }}</label>
